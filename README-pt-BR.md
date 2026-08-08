@@ -9,16 +9,6 @@ Me chamo Jhony Vinicius Broholka Silverio, tenho 24 anos. Concluí o ensino méd
 
 ## Sobre mim
 
-Atualmente estou desenvolvendo minhas habilidades em análise de dados,
-com foco em:
-
-- Excel
-- SQL
-- Python
-- Power BI
-- Estatística
-- Visualização de dados
-
 Tenho interesse especial em dados aplicados a problemas reais,
 pesquisa e análise de desempenho no futebol.
 
@@ -30,5 +20,5 @@ pesquisa e análise de desempenho no futebol.
 📈 Power BI  
 📗 Excel
 
-### EN [Read in English](README-EN.md)
+### EN [Read in English](README.md)
 
