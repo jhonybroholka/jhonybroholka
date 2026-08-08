@@ -11,15 +11,6 @@ I am passionate about technology and share my knowledge through my YouTube chann
 
 ## About Me
 
-I am currently developing my skills in data analytics, with a focus on:
-
-- Excel
-- SQL
-- Python
-- Power BI
-- Statistics
-- Data Visualization
-
 I am particularly interested in applying data to real-world problems, research, and football performance analysis.
 
 ## Currently Learning
