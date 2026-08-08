@@ -30,6 +30,5 @@ pesquisa e análise de desempenho no futebol.
 📈 Power BI  
 📗 Excel
 
-<br/>
-<br/>
+### EN [Read in English](README-EN.md)
 
